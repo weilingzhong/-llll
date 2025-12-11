@@ -1,0 +1,8 @@
+{
+  "name": "Sonic Fireworks Visualizer",
+  "description": "An interactive 3D particle firework display driven by real-time microphone audio frequency analysis and hand tracking.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
